@@ -1,0 +1,13 @@
+.same {
+    font-size: 100px;
+    text-align: center;
+    margin: 300px auto;
+    color: greenyellow;
+    
+}
+body {
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+    background: url(moneyrain.gif) ;
+}
